@@ -3,6 +3,11 @@ iOS App: Search for any movie using the omdbAPI movie database. Select a movie t
 
 This project was to go back in time and build an app with xib and storyboards.
 
+![](one.png)
+![](two.png)
+![](three.png)
+![](four.png)
+
 ## Built with:
 * Swift
 * MVC
